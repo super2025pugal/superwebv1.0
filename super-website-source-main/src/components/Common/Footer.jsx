@@ -170,21 +170,14 @@ const Footer = () => {
                     <p style={styles.contactLabel}>Phone Numbers</p>
                     <div style={styles.phoneList}>
                       <a 
-                        href="tel:9942909628" 
+                        href="tel:9942909629" 
                         style={styles.contactLink}
                         onMouseEnter={(e) => e.target.style.color = '#0891b2'}
                         onMouseLeave={(e) => e.target.style.color = '#4b5563'}
                       >
                         +91 99429 09628
                       </a>
-                      <a 
-                        href="tel:9942909627" 
-                        style={styles.contactLink}
-                        onMouseEnter={(e) => e.target.style.color = '#0891b2'}
-                        onMouseLeave={(e) => e.target.style.color = '#4b5563'}
-                      >
-                        +91 99429 09627
-                      </a>
+                      
                     </div>
                   </div>
                 </div>
