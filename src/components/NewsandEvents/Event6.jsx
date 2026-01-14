@@ -4,9 +4,9 @@ import EventPageTemplate from "./Eventpagetemplate";
 const Event6 = () => {
   const images = [
     { id: 1, img: "/images/news6.png" },
-    { id: 2, img: "/images/noida/n1.png" },
-    { id: 3, img: "/images/noida/n2.png" },
-    { id: 4, img: "/images/noida/n3.png" },
+    { id: 2, img: "/images/noida/n1.webp" },
+    { id: 3, img: "/images/noida/n2.webp" },
+    { id: 4, img: "/images/noida/n3.webp" },
   ];
 
   const [hovered, setHovered] = useState(null);
