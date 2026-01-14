@@ -1,0 +1,33 @@
+.groups_sec {
+  padding: 100px 0;
+  background-image: url("/images/bg2.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  .main_text {
+    margin-bottom: 50px;
+  }
+
+  .groups {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    place-items: center;
+    gap: 70px;
+
+    .group {
+      .title_link p {
+        color: var(--pri);
+        font-weight: 800;
+        font-size: clamp(20px, 2.5vw, 25px);
+      }
+    }
+
+    @media (width <=1000px) {
+      & {
+        grid-template-columns: repeat(1, 1fr);
+        text-align: center;
+      }
+    }
+  }
+}

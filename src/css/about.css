@@ -1,0 +1,86 @@
+.abt_banner{
+  margin-top: 150px;
+}
+
+.about_section{
+    margin:50px 0 100px 0;
+    
+   
+}
+.icon_bx{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.sub_text{
+    font-size: 18px;
+    color:var(--trd);
+}
+.about_section .icon_bx{
+    font-size: clamp(30px, 4vw, 40px);
+    color: var(--pri);
+    display: flex;
+}
+.about_cover_box{
+    display: flex;
+    gap:30px;
+}
+.vision, .mission{
+    flex-basis: 50%;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+    border-top: 8px solid var(--pri);
+    box-shadow: 2px 2px 5px grey;
+    /* position: relative; */
+
+}
+/* .p_log_box{
+    position: absolute;
+    width: 120px;
+   right: 10px;
+   top: 50px;
+
+} */
+
+
+@media (width<=1000px){
+    .abt_banner{
+        margin-top: 100px;
+      }
+}
+@media (width<=991px){
+    .vision, .mission{
+        flex-basis: 100%;
+    }.about_cover_box{
+        flex-wrap: wrap;
+    }.mini_text{
+        font-size: 22px;
+    }
+}
+.p_box_logo{
+    display: flex;
+    gap: 20px;
+    align-items: center !important;
+    flex-basis: 30%;
+    img{
+       width: 20%;
+    }
+}
+.philosophy_cont{
+    flex-basis: 70%;
+}
+@media(width<=500px){
+    .philosophy_cont{
+        flex-basis: 50%;
+    } 
+    .p_box_logo{
+        gap: 30px;
+        flex-basis: 50%;
+        img{
+           width: 30%;
+        
+    
+        }
+    }
+}
