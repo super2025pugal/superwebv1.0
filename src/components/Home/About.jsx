@@ -49,7 +49,7 @@ const AboutSection = () => {
  
     { img: "/images/news2.png", title: "TEXFAIR 2024", to: "/NewsandEvents/Event2" },
     { img: "/images/news3.png", title: "CONFERENCE AT BANGLADESH FEB2024", to: "/NewsandEvents/Event3" },
-    { img: "/images/news6.png", title: "ITME NOIDA 2023", to: "/NewsandEvents/Event6" },
+    { img: "/images/news6.webp", title: "ITME NOIDA 2023", to: "/NewsandEvents/Event6" },
     { img: "/images/news4.png", title: "TEXFAIR 2022", to: "/NewsandEvents/Event4" },
     { img: "/images/news5.png", title: "TEXFAIR 2019", to: "/NewsandEvents/Event5" },
     
