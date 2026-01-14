@@ -329,7 +329,7 @@ const Stw = () => {
           <div>
             <div style={styles.imageCard}>
               <img
-                src="./images/spares/super-textile.webp"
+                src="./images/stslogo.png"
                 alt="Super Textile Services"
                 style={styles.image}
               />
