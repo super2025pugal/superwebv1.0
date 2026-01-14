@@ -175,7 +175,7 @@ const Footer = () => {
                         onMouseEnter={(e) => e.target.style.color = '#0891b2'}
                         onMouseLeave={(e) => e.target.style.color = '#4b5563'}
                       >
-                        +91 99429 09628
+                        +91 99429 09629
                       </a>
                       
                     </div>
