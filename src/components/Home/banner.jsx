@@ -15,12 +15,12 @@ const Banner = () => {
   const sliderRef = useRef(null);
 
   const slides = [
-    { src: "./images/banner/banner1.png", alt: "Premium textile machinery solutions" },
-    { src: "./images/banner/banner2.png", alt: "Advanced engineering equipment" },
-    { src: "./images/banner/banner3.png", alt: "Industrial automation systems" },
-    { src: "./images/banner/banner4.png", alt: "Cutting-edge textile technology" },
-    { src: "./images/banner/banner5.png", alt: "Cutting-edge textile technology" },
-    { src: "./images/banner/banner6.png", alt: "Manufacturing excellence solutions" }
+    { src: "./images/banner/banner1.webp", alt: "Premium textile machinery solutions" },
+    { src: "./images/banner/banner2.webp", alt: "Advanced engineering equipment" },
+    { src: "./images/banner/banner3.webp", alt: "Industrial automation systems" },
+    { src: "./images/banner/banner4.webp", alt: "Cutting-edge textile technology" },
+    { src: "./images/banner/banner5.webp", alt: "Cutting-edge textile technology" },
+    { src: "./images/banner/banner6.webp", alt: "Manufacturing excellence solutions" }
   ];
 
   const goToSlide = useCallback((index) => {

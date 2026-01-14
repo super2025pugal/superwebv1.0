@@ -291,7 +291,7 @@ const DrawFrame = () => {
     },
     {
       name: "Super D2",
-      subtitle: "Draw Frame",
+      subtitle: "Auto-Leveller Draw Frame",
       badge: "Performance Series",
       image: "../images/manufacture/fa.png",
       route: "/products/super-d2",
@@ -299,7 +299,7 @@ const DrawFrame = () => {
     },
     {
       name: "Super D2 Duos",
-      subtitle: "Draw Frame",
+      subtitle: "Auto-LevellerDraw Frame",
       badge: "Advanced Series",
       image: "../images/manufacture/d2_plus.webp",
       route: "/products/super-d2-plus",
