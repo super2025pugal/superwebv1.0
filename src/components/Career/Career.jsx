@@ -58,12 +58,12 @@ const Career = () => {
     },
     {
       id: 4,
-      title: "CMC/VMC Operator",
+      title: "CNC/VMC Operator",
       department: "Manufacturing",
       locations: ["Coimbatore"],
       type: "Full-time",
       experience: "Freshers or experienced",
-      description: "Operate CMC/VMC machines with support and on-the-job training.",
+      description: "Operate CNC/VMC machines with support and on-the-job training.",
       requirements: ["Willingness to learn", "Basic mechanical aptitude", "Prior experience beneficial but not required"],
     },
     
@@ -190,15 +190,15 @@ Please attach your resume before sending.
           </p>
           <div className="hero-stats">
             <div className="stat-card">
-              <div className="stat-number">150+</div>
+              <div className="stat-number">350+</div>
               <div className="stat-label">Professionals</div>
             </div>
             <div className="stat-card">
-              <div className="stat-number">15+</div>
+              <div className="stat-number">40+</div>
               <div className="stat-label">Years Excellence</div>
             </div>
             <div className="stat-card">
-              <div className="stat-number">1000+</div>
+              <div className="stat-number">1300+</div>
               <div className="stat-label">Projects</div>
             </div>
           </div>

@@ -139,7 +139,7 @@ const CompanyHistory = () => {
     },
     {
       hash: "2021to2024",
-      year: "2021-2024",
+      year: "2021-2025",
       title: "SUPER D1",
       tagline: "Advanced Design",
       image: "./images/history/timeline9.webp",
@@ -171,7 +171,7 @@ const CompanyHistory = () => {
     },
     {
       hash: "present1",
-      year: "2024-present",
+      year: "2025-present",
       title: "Super D1 NXT",
       tagline: "Enhanced capabilities",
       image: "./images/history/D1NXT.png",
@@ -179,7 +179,7 @@ const CompanyHistory = () => {
     },
     {
       hash: "present2",
-      year: "2024-present",
+      year: "2025-present",
       title: "Super D2",
       tagline: "Spinning success",
       image: "./images/history/Superd2.png",

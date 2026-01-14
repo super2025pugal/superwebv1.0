@@ -530,7 +530,7 @@ const OpenEnd = () => {
                     marginBottom: "12px",
                   }}
                 >
-                  High-Speed Production
+                  Higher Production
                 </h3>
                 <p
                   style={{

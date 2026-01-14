@@ -868,7 +868,7 @@ const ContactForm = () => {
 
               {/* Google Maps Button */}
               <a
-                href="https://maps.google.com/?q=11.056621,76.982782"
+                href="https://www.google.com/maps/place/SUPER+MACHINE+WORKS+(P)+LTD/@11.0566537,76.9828864,21z/data=!4m14!1m7!3m6!1s0x3ba85875f5da5219:0xf0d8694e6c43d621!2sSUPER+MACHINE+WORKS+(P)+LTD!8m2!3d11.056621!4d76.9827817!16s%2Fg%2F1tk663h9!3m5!1s0x3ba85875f5da5219:0xf0d8694e6c43d621!8m2!3d11.056621!4d76.9827817!16s%2Fg%2F1tk663h9?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{
@@ -877,7 +877,7 @@ const ContactForm = () => {
                   justifyContent: "center",
                   gap: "8px",
                   width: "100%",
-                  backgroundColor: "#3b82f6",
+                  backgroundColor: "#518ae5",
                   color: "white",
                   padding: "clamp(12px, 2.5vw, 14px) clamp(20px, 4vw, 24px)",
                   borderRadius: "clamp(8px, 1.5vw, 10px)",
