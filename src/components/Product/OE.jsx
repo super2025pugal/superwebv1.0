@@ -156,7 +156,7 @@ const OpenEnd = () => {
       subtitle: "Rotor Spinning Machine with DSDC",
       badge: "DSDC Technology",
       image: "./images/history/timeline10.png",
-      
+      route: "/products/timeline10",
       scale: 1.32,
       maxWidth: "112%",
       highlights: [
