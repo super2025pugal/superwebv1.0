@@ -3,6 +3,7 @@ import { useNavigate, useLocation } from "react-router-dom";
 
 // Event configuration - matches your AboutSection numberedNews array
 const EVENT_ROUTES = [
+  { path: "/NewsandEvents/Event0", title: "TEXFAIR 2026" },
   { path: "/NewsandEvents/Event1", title: "ITMA ASIA + CITME 2025 SINGAPORE" },
   { path: "/NewsandEvents/Foundersday", title: "FOUNDERS DAY" },
   { path: "/NewsandEvents/Event2", title: "TEXFAIR 2024" },

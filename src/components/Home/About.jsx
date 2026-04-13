@@ -35,18 +35,20 @@ const AboutSection = () => {
   // News data (now connected to routes)
   // -----------------------------
   const numberedNews = [
+     { img: "/images/news01.webp", title: "TEXFAIR 2026", to: "/NewsandEvents/Event0" },
    
     {
       img: "/images/news1.png",
       title: "ITMA ASIA + CITME 2025\nSINGAPORE",
       to: "/NewsandEvents/Event1",
     },
+   
     {
       img: "/images/f0.webp",
       title: "FOUNDERS DAY 2025",
       to: "/NewsandEvents/Foundersday",
     },
- 
+
     { img: "/images/news2.png", title: "TEXFAIR 2024", to: "/NewsandEvents/Event2" },
     { img: "/images/news3.png", title: "CONFERENCE AT BANGLADESH FEB2024", to: "/NewsandEvents/Event3" },
     { img: "/images/news6.webp", title: "ITME NOIDA 2023", to: "/NewsandEvents/Event6" },

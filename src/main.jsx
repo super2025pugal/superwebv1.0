@@ -40,6 +40,7 @@ import Rs1 from "./components/Product/Rs1";
 import Rs2 from "./components/Product/Rs2";
 import D2 from "./components/Product/D2";
 import Cmpltrecyle from "./components/Product/Cmpltrecyle";
+import Event0 from "./components/NewsandEvents/Event0";
 import Event1 from "./components/NewsandEvents/Event1";
 import Foundersday from "./components/NewsandEvents/Foundersday";
 import Eventpagetemplate from "./components/NewsandEvents/Eventpagetemplate";
@@ -86,6 +87,7 @@ const App = () => {
         <Route path="/products/OE" element={<OE />} />
 
         <Route path="/NewsandEvents/Eventpagetemplate" element={<Eventpagetemplate />} />
+        <Route path="/NewsandEvents/Event0" element={<Event0 />} />
         <Route path="/NewsandEvents/Event1" element={<Event1 />} />
         <Route path="/NewsandEvents/Foundersday" element={<Foundersday/>} />
         <Route path="/NewsandEvents/Event2" element={<Event2 />} />
