@@ -155,8 +155,8 @@ const OpenEnd = () => {
       name: "Super RS2",
       subtitle: "Rotor Spinning Machine with DSDC",
       badge: "DSDC Technology",
-      image: "/images/manufacture/super_rs2.png",
-      route: "/products/super-rs2",
+      image: "./images/history/timeline10.png",
+      
       scale: 1.32,
       maxWidth: "112%",
       highlights: [
