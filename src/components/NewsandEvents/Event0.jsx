@@ -11,13 +11,9 @@ const Event0 = () => {
     { id: 6, img: "/images/texfair2026/t5.webp" },
     { id: 7, img: "/images/texfair2026/t7.png" },
     { id: 8, img: "/images/texfair2026/t6.webp" },
-    { id: 9, img: "/images/texfair2026/t9.webp" },
-    { id: 10, img: "/images/texfair2026/t10.webp" },
-    { id: 11, img: "/images/texfair2026/t11.webp" },
-    { id: 12, img: "/images/texfair2026/t12.webp" },
-    { id: 13, img: "/images/texfair2026/t13.webp" },
-    { id: 14, img: "/images/texfair2026/t14.webp" },
-    { id: 15, img: "/images/texfair2026/t15.webp" },
+    { id: 9, img: "/images/texfair2026/t8.webp" },
+    { id: 10, img: "/images/texfair2026/t9.webp" },
+    
   ];
 
   const [hovered, setHovered] = useState(null);
