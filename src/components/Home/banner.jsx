@@ -18,7 +18,7 @@ const Banner = () => {
     { src: "./images/banner/banner5.webp", alt: "Cutting-edge textile technology" },
     { src: "./images/banner/banner1.webp", alt: "Premium textile machinery solutions" },
     { src: "./images/banner/banner2.png", alt: "Advanced engineering equipment" },
-    { src: "./images/banner/banner3.webp", alt: "Industrial automation systems" },
+    { src: "./images/banner/banner3.png", alt: "Industrial automation systems" },
     { src: "./images/banner/banner4.png", alt: "Cutting-edge textile technology" },
     
     { src: "./images/banner/banner6.webp", alt: "Manufacturing excellence solutions" }
