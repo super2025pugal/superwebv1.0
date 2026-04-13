@@ -5,7 +5,7 @@ const D2 = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
   
   const images = [
-    "../images/manufacture/d2.png",
+    "../images/manufacture/fa.png",
     "../images/manufacture/super_machine_d2.webp"
   ];
 
